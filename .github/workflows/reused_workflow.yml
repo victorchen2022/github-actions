@@ -14,5 +14,4 @@ jobs:
         with:
           fetch-depth: "0"
       - name: show msg
-        run: |
-        echo "hello world"
+        run: echo "hello world"
