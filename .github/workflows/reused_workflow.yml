@@ -29,8 +29,8 @@ on:
 jobs:
   build:
     name: build
-    # runs-on: ubuntu-latest
-    runs-on: cn
+    runs-on: ubuntu-latest
+#     runs-on: cn
     timeout-minutes: 20
 
     steps:
